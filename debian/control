@@ -1,0 +1,12 @@
+Source: ros-hydro-pepper-robot
+Section: misc
+Priority: extra
+Maintainer: Karsten Knese <kknese@aldebaran.com>
+Build-Depends: debhelper (>= 9.0.0), ros-hydro-catkin
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-hydro-pepper-robot
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-pepper-bringup, ros-hydro-pepper-description, ros-hydro-pepper-sensors
+Description: The pepper_robot package
