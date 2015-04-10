@@ -1,9 +1,0 @@
-ros-hydro-pepper-sensors (0.1.1-0raring) raring; urgency=high
-
-  * update dependencies
-  * initial commit of URDF and basic scripts
-  * Contributors: Vincent Rabaud
-
- -- Karsten Knese <kknese@aldebaran.com>  Tue, 07 Apr 2015 22:00:00 -0000
-
-
