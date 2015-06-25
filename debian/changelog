@@ -1,0 +1,21 @@
+ros-indigo-pepper-bringup (0.1.3-0trusty) trusty; urgency=high
+
+
+
+ -- Karsten Knese <kknese@aldebaran.com>  Wed, 24 Jun 2015 22:00:00 -0000
+
+ros-indigo-pepper-bringup (0.1.2-0trusty) trusty; urgency=high
+
+
+
+ -- Karsten Knese <kknese@aldebaran.com>  Thu, 09 Apr 2015 22:00:00 -0000
+
+ros-indigo-pepper-bringup (0.1.1-0trusty) trusty; urgency=high
+
+  * update dependency
+  * initial commit of URDF and basic scripts
+  * Contributors: Vincent Rabaud
+
+ -- Karsten Knese <kknese@aldebaran.com>  Tue, 07 Apr 2015 22:00:00 -0000
+
+
