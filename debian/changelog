@@ -1,0 +1,49 @@
+ros-indigo-pepper-bringup (0.1.6-0saucy) saucy; urgency=high
+
+
+
+ -- Karsten Knese <karsten.knese@gmail.com>  Thu, 30 Jul 2015 22:00:00 -0000
+
+ros-indigo-pepper-bringup (0.1.5-0saucy) saucy; urgency=high
+
+  * 0.1.4
+  * generate changelog
+  * update maintainer email
+  * rename naoqi_driver
+  * pepper_sensor to pepper_sensor_py
+  * transfer to naoqi_py
+  * Contributors: Karsten Knese
+
+ -- Karsten Knese <karsten.knese@gmail.com>  Thu, 30 Jul 2015 22:00:00 -0000
+
+ros-indigo-pepper-bringup (0.1.4-0saucy) saucy; urgency=high
+
+  * update maintainer email
+  * rename naoqi_driver
+  * pepper_sensor to pepper_sensor_py
+  * transfer to naoqi_py
+  * Contributors: Karsten Knese
+
+ -- Karsten Knese <karsten.knese@gmail.com>  Wed, 29 Jul 2015 22:00:00 -0000
+
+ros-indigo-pepper-bringup (0.1.3-0saucy) saucy; urgency=high
+
+
+
+ -- Karsten Knese <kknese@aldebaran.com>  Wed, 24 Jun 2015 22:00:00 -0000
+
+ros-indigo-pepper-bringup (0.1.2-0saucy) saucy; urgency=high
+
+
+
+ -- Karsten Knese <kknese@aldebaran.com>  Thu, 09 Apr 2015 22:00:00 -0000
+
+ros-indigo-pepper-bringup (0.1.1-0saucy) saucy; urgency=high
+
+  * update dependency
+  * initial commit of URDF and basic scripts
+  * Contributors: Vincent Rabaud
+
+ -- Karsten Knese <kknese@aldebaran.com>  Tue, 07 Apr 2015 22:00:00 -0000
+
+
