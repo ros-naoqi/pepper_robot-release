@@ -1,3 +1,30 @@
+## pepper_robot (kinetic) - 0.1.8-0
+
+The packages in the `pepper_robot` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --track kinetic --rosdistro kinetic --new-track pepper_robot` on `Sun, 22 May 2016 07:08:02 -0000`
+
+These packages were released:
+- `pepper_bringup`
+- `pepper_description`
+- `pepper_robot`
+- `pepper_sensors_py`
+
+Version of package(s) in repository `pepper_robot`:
+
+- upstream repository: https://github.com/ros-naoqi/pepper_robot.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.1.8-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.21`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.4`
+- rosdistro version: `0.4.7`
+- vcstools version: `0.1.38`
+
+
 ## pepper_robot (jade) - 0.1.7-0
 
 The packages in the `pepper_robot` repository were released into the `jade` distro by running `/usr/bin/bloom-release --rosdistro jade --track jade pepper_robot` on `Tue, 11 Aug 2015 12:27:23 -0000`
