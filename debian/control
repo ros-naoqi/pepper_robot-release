@@ -1,0 +1,13 @@
+Source: ros-kinetic-pepper-sensors-py
+Section: misc
+Priority: extra
+Maintainer: Karsten Knese <karsten.knese@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-pepper-sensors-py
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-naoqi-sensors-py, ros-kinetic-rospy
+Conflicts: ros-kinetic-pepper-sensors
+Description: The pepper_sensors package
