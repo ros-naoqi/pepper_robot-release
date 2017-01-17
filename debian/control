@@ -1,0 +1,12 @@
+Source: ros-jade-pepper-description
+Section: misc
+Priority: extra
+Maintainer: Surya Ambrose <surya.ambrose@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-jade-catkin
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-jade-pepper-description
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-jade-robot-state-publisher, ros-jade-urdf, ros-jade-xacro
+Description: The pepper_description package
