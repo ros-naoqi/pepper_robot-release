@@ -2,6 +2,22 @@
 Changelog for package pepper_bringup
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.10 (2017-01-17)
+-------------------
+* Merge pull request `#34 <https://github.com/ros-naoqi/pepper_robot/issues/34>`_ from ros-naoqi/change_maintainer
+  change maintainership
+* change maintainership
+* Contributors: Karsten Knese
+
+0.1.9 (2017-01-17)
+------------------
+* correct old emailaddress in package.xml
+* [pepper_bringup] add perception.launch.xml
+* add naoqi_pose/launch/pose_manager.launch + ns pepper_robot
+* add an explicit dependency to get tests to pass on Travis.
+* launch/pepper_full.launch : support nao_port in launch/naoqi_driver.launch https://github.com/ros-naoqi/naoqi_driver/pull/52
+* Contributors: Kanae Kochigami, Karsten Knese, Kei Okada, Vincent Rabaud, Yuki Furuta
+
 0.1.8 (2015-12-18)
 ------------------
 * [pepper_bringup/package.xml] add naoqi_pose, naoqi_driver_py to run_depend
