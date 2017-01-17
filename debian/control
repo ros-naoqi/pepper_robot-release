@@ -1,0 +1,12 @@
+Source: ros-jade-pepper-bringup
+Section: misc
+Priority: extra
+Maintainer: Surya Ambrose <surya.ambrose@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-jade-catkin, ros-jade-roslaunch, ros-jade-rostest
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-jade-pepper-bringup
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-jade-naoqi-driver, ros-jade-naoqi-driver-py, ros-jade-naoqi-pose, ros-jade-naoqi-sensors-py, ros-jade-pepper-description, ros-jade-pepper-sensors-py, ros-jade-rgbd-launch
+Description: The pepper_bringup package
