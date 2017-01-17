@@ -1,0 +1,12 @@
+Source: ros-kinetic-pepper-bringup
+Section: misc
+Priority: extra
+Maintainer: Surya Ambrose <surya.ambrose@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin, ros-kinetic-roslaunch, ros-kinetic-rostest
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-pepper-bringup
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-naoqi-driver, ros-kinetic-naoqi-driver-py, ros-kinetic-naoqi-pose, ros-kinetic-naoqi-sensors-py, ros-kinetic-pepper-description, ros-kinetic-pepper-sensors-py, ros-kinetic-rgbd-launch
+Description: The pepper_bringup package
