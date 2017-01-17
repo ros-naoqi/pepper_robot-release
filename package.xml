@@ -1,11 +1,12 @@
 <?xml version="1.0"?>
 <package>
   <name>pepper_bringup</name>
-  <version>0.1.9</version>
+  <version>0.1.10</version>
   <description>The pepper_bringup package</description>
 
   <author>Karsten Knese</author>
-  <maintainer email="karsten.knese@gmail.com">Karsten Knese</maintainer>
+  <maintainer email="surya.ambrose@gmail.com">Surya Ambrose</maintainer>
+  <maintainer email="natalia.lyubova@gmail.com">Natalia Lyubova</maintainer>
 
   <license>Apache 2.0</license>
 
