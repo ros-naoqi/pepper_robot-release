@@ -1,0 +1,12 @@
+Source: ros-indigo-pepper-robot
+Section: misc
+Priority: extra
+Maintainer: Surya Ambrose <surya.ambrose@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-indigo-pepper-robot
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-pepper-bringup, ros-indigo-pepper-description, ros-indigo-pepper-sensors-py
+Description: The pepper_robot package
