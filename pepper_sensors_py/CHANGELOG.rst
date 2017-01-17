@@ -2,6 +2,21 @@
 Changelog for package pepper_sensors
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.10 (2017-01-17)
+-------------------
+* Merge pull request `#34 <https://github.com/ros-naoqi/pepper_robot/issues/34>`_ from ros-naoqi/change_maintainer
+  change maintainership
+* change maintainership
+* Contributors: Karsten Knese
+
+0.1.9 (2017-01-17)
+------------------
+* correct old emailaddress in package.xml
+* Contributors: Karsten Knese
+
+0.1.8 (2015-12-18)
+------------------
+
 0.1.7 (2015-08-11)
 ------------------
 
