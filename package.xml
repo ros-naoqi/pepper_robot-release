@@ -1,10 +1,12 @@
 <?xml version="1.0"?>
 <package>
   <name>pepper_description</name>
-  <version>0.1.8</version>
+  <version>0.1.10</version>
   <description>The pepper_description package</description>
 
-  <maintainer email="kknese@aldebaran.com">Karsten Knese</maintainer>
+  <author>Karsten Knese</author>
+  <maintainer email="surya.ambrose@gmail.com">Surya Ambrose</maintainer>
+  <maintainer email="natalia.lyubova@gmail.com">Natalia Lyubova</maintainer>
 
   <license>Apache 2.0</license>
 
