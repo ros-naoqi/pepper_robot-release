@@ -1,3 +1,30 @@
+## pepper_robot (jade) - 0.1.10-0
+
+The packages in the `pepper_robot` repository were released into the `jade` distro by running `/usr/bin/bloom-release pepper_robot --track jade --rosdistro jade` on `Tue, 17 Jan 2017 17:57:07 -0000`
+
+These packages were released:
+- `pepper_bringup`
+- `pepper_description`
+- `pepper_robot`
+- `pepper_sensors_py`
+
+Version of package(s) in repository `pepper_robot`:
+
+- upstream repository: https://github.com/ros-naoqi/pepper_robot.git
+- release repository: https://github.com/ros-naoqi/pepper_robot-release.git
+- rosdistro version: `0.1.7-0`
+- old version: `0.1.7-0`
+- new version: `0.1.10-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.23`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.5.0`
+- vcstools version: `0.1.39`
+
+
 ## pepper_robot (indigo) - 0.1.10-0
 
 The packages in the `pepper_robot` repository were released into the `indigo` distro by running `/usr/bin/bloom-release pepper_robot --track indigo --rosdistro indigo` on `Tue, 17 Jan 2017 17:53:37 -0000`
